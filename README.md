@@ -9,7 +9,7 @@
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-7519C1">
   </a>
   <a>
-  <img alt="License" src="https://img.shields.io/github/license/WelliRigo/Ecoleta?color=7519C1&label=License">
+  <img alt="License" src="https://img.shields.io/github/license/lukyo17/Ecoleta?color=7519C1&label=License">
 </p>
 
 # Índice
@@ -51,7 +51,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
   - **[Expo](https://expo.io/)** de forma global
 1. Faça um clone :
 ```sh
-  $ git clone https://github.com/WelliRigo/Ecoleta.git
+  $ git clone https://github.com/lukyo17/Ecoleta.git
 ```
 2. Executando a Aplicação:
 ```sh
@@ -94,7 +94,3 @@ As aulas foram ministradas por **[Diego Fernandes](https://github.com/diego3g)**
 
 ## 📝 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
- 
-<h4 align="center">
-    Feito com 💜 by <a href="www.linkedin.com/in/welliton-rigo" target="_blank">Welliton Rigo</a>
-</h4>
