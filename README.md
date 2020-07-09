@@ -90,7 +90,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :mortar_board: Referências
 As aulas foram ministradas por **[Diego Fernandes](https://github.com/diego3g)**.
 
-<a id="licensa"></a>
-
-## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
